@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Mortend-Bold';
+    src: url('Mortend-Bold.woff2') format('woff2'),
+        url('Mortend-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jeko-Black';
+    src: url('Jeko-Black.woff2') format('woff2'),
+        url('Jeko-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jeko-Regular';
+    src: url('Jeko-Regular.woff2') format('woff2'),
+        url('Jeko-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jeko-Bold';
+    src: url('Jeko-Bold.woff2') format('woff2'),
+        url('Jeko-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JekoVariable';
+    src: url('JekoVariable.woff2') format('woff2'),
+        url('JekoVariable.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jeko-Light';
+    src: url('Jeko-Light.woff2') format('woff2'),
+        url('Jeko-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Jeko-ExtraBold';
+    src: url('Jeko-ExtraBold.woff2') format('woff2'),
+        url('Jeko-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'SFProText-Bold';
+    src: url('SFProText-Bold.woff2') format('woff2'),
+        url('SFProText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jeko-SemiBold';
+    src: url('Jeko-SemiBold.woff2') format('woff2'),
+        url('Jeko-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFProText-Medium';
+    src: url('SFProText-Medium.woff2') format('woff2'),
+        url('SFProText-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFProText-Regula';
+    src: url('SFProText-Regular.woff2') format('woff2'),
+        url('SFProText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

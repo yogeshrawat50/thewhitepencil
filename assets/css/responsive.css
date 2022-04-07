@@ -1,0 +1,1071 @@
+@media (min-width: 1199px) {
+    .btm_scllpage {
+        position: absolute;
+        bottom: 85px;
+        width: 1140px;
+    }
+    figure.big_fig img {
+        max-height: 500px;
+    }
+    .mb-xl-100 {
+        margin-bottom: 100px !important;
+    }
+}
+@media (min-width: 1366px) {
+    .section_testimonial .owl-nav {
+        right: 34%;
+    }
+    .section_keys_img figure {
+        max-width: 75%;
+    }
+    .keyheadm {
+        margin-bottom: 60px;
+    }
+    .case-studyheading {
+        margin-bottom: 30px;
+    }
+    p {
+        line-height: 28px;
+        font-size: 17px;
+    }
+    figure.big_fig img {
+        max-height: 580px;
+    }
+    .btm_scllpage {
+        position: absolute;
+        width: 1320px;
+    }
+    /*header fixed css start */
+    .fixed-header {
+        background: rgb(15 15 17 / 50%);
+        position: fixed;
+        top: 0;
+        -webkit-transition: all 0.3s ease;
+        -moz-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+    }
+    .homepage .fp-viewing-1 .fixed-header,
+    .homepage .fp-viewing-7 .fixed-header,
+    .homepage .fp-viewing-9 .fixed-header,
+    .homepage .fp-viewing-10 .fixed-header {
+        background: transparent;
+    }
+    .header-section a.logo {
+        display: inline-block;
+    }
+    /*header fixed css end */
+    .spclaboutshape01 {
+        margin-bottom: 100px;
+    }
+}
+@media (min-width: 1199px) and (max-width: 1400px) {
+    .sepcl_work ul li {
+        margin-right: 10px;
+        padding-left: 20px;
+    }
+    .section_project_new2 .sec_pro_img-cover img {
+        height: 85%;
+    }
+}
+@media (min-width: 1199px) and (max-width: 1900px) {
+    .videopanel_lapi {
+        width: 100%;
+        height: 100%;
+    }
+    .videopanel_lapi_bg {
+        height: 500px;
+        background-size: contain;
+    }
+    .videopanel_lapi_bg video {
+        height: 100%;
+    }
+    .project__img01 .project__images {
+        width: 70%;
+    }
+    .project__img02 .project__images,
+    .project__imagesbg,
+    .project__img04 .project__images {
+        width: 375px;
+    }
+    .sec_pro_img-cover4 img {
+        top: 15%;
+    }
+}
+@media (min-width: 1500px) and (max-width: 1900px) {
+    .videopanel_lapi_bg {
+        height: 600px;
+    }
+}
+@media (min-width: 1500px) {
+    .menu ul li {
+        margin-right: 75px;
+    }
+    .sub_title {
+        font-size: 44px;
+        line-height: 54.34px;
+    }
+
+    .keys__box h4 {
+        font-size: 44px;
+    }
+    p {
+        line-height: 31px;
+        font-size: 18px;
+    }
+
+    .footer_items {
+        margin-right: 150px;
+    }
+    .case-studyheading {
+        margin-bottom: 70px;
+    }
+    .mb-xl-100 {
+        margin-bottom: 120px !important;
+    }
+    .shapes_case ul li {
+        margin-right: 100px;
+    }
+
+    .shapes_case2 img {
+        max-width: 375px;
+    }
+    .shapes_case img {
+        max-width: 300px;
+    }
+    .lead {
+        line-height: 42px;
+    }
+    .servcie_team_content h2,
+    .content-case-watch h3,
+    .heading_main {
+        font-size: 3rem;
+    }
+    .section_intro h2 {
+        font-size: 3.5rem;
+    }
+    figure.big_fig img {
+        max-height: 100%;
+    }
+    .section_philosphy h2 {
+        font-size: 2.5rem;
+        line-height: 3.5rem;
+    }
+    .we_offer .section-project-content h4 {
+        line-height: 48px;
+        font-size: 2.25rem;
+    }
+    .listing_show_img {
+        height: 35vh;
+    }
+    .listing_show li {
+        font-size: 2.25rem;
+        line-height: 120px;
+    }
+    .burger span {
+        height: 42px;
+        width: 42px;
+    }
+    .burger.burger-open span.closemenu {
+        height: 42px;
+    }
+    .spclaboutshape01 {
+        margin-bottom: 150px;
+    }
+    .section_contents .sepcl_work ul li {
+        font-size: 1.125rem;
+        line-height: 46px;
+    }
+}
+@media (min-width: 1800px) {
+    h3.foo-tiile {
+        font-size: 56px; 
+    }
+    .testi__container {
+        margin-left: 200px;
+    }
+
+    .title__heading_big {
+        font-size: 54px;
+        line-height: 78.3px;
+    }
+    .case_banner_fastrr {
+        right: -5%;
+        max-width: 90%;
+    }
+    .section_testimonial .owl-nav {
+        right: 25%;
+    }
+    .section_keys_img figure {
+        max-width: 90%;
+        margin-top: 25px;
+    }
+    .homepage .container {
+        max-width: 1520px;
+    }
+    .keyheadm {
+        margin-bottom: 100px;
+    }
+    .btm_scllpage {
+        width: 1520px !important;
+    }
+}
+@media (max-width: 1601px) {
+    .awards_section .owl-carousel .awards_img {
+        max-width: 80%;
+    }
+    .awards_section .owl-carousel .awards_img img {
+        margin-left: 10%;
+    }
+    .casewatch .lead {
+        line-height: 36px;
+        font-size: 1rem;
+    }
+    .tab-wwatch3 img {
+        max-width: 70%;
+    }
+    .servcie_team_img img {
+        max-width: 70%;
+        float: right;
+    }
+    .section_specialize2,
+    .section_specialize3 {
+        padding-top: 50px;
+    }
+    .card-team-img img {
+        max-height: 200px;
+        margin-bottom: 2px !important;
+    }
+    .card-team .card-title {
+        margin-bottom: 0 !important;
+    }
+    .about_team .cate-heading,
+    .about_team h2 {
+        margin-bottom: 15px !important;
+    }
+    .case_banner_watch {
+        max-height: 320px;
+    }
+    .section_intro_case h2 {
+        font-size: 2.65rem;
+    }
+}
+
+@media (max-width: 1367px) {
+    .tags__list li:nth-child(3),
+    .tags__list li:nth-child(7) {
+        margin-left: 75px;
+    }
+    .tags__list li {
+        font-size: 18px;
+    }
+    .tags__list li {
+        margin: 0 40px 40px 0;
+    }
+    .tags__list li a {
+        padding: 0 40px;
+    }
+    .listing_show_content {
+        padding: 50px 50px 0;
+    }
+    .bannerabout2 {
+        max-width: 175px;
+    }
+    .we_offer .section-project-content h4 {
+        font-size: 22px;
+        line-height: 36px;
+    }
+    .we_offer .section-project-content h4 br {
+        display: none;
+    }
+
+    .angles-circles {
+        width: 220px;
+        height: 220px;
+    }
+
+    .ipad__content.pe-xl-5 {
+        padding-right: 0 !important;
+    }
+    .case_banner_watch {
+        max-height: 300px;
+    }
+    .section_intro h2 {
+        font-size: 2.65rem;
+    }
+    .section_project_new .sepcl_work ul li {
+        width: 43%;
+        vertical-align: top;
+    }
+    .section-project-content {
+        padding: 0 !important;
+    }
+    .about_btm_banner {
+        position: static;
+    }
+    .about-service-img img {
+        margin-left: 0;
+    }
+    .about-service .sub_title {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .menu ul li {
+        margin-right: 30px;
+    }
+}
+
+@media (max-width: 991px) {
+    .burger {
+        display: block;
+    }
+    nav.menu {
+        display: none;
+    }
+}
+@media (min-width: 768px) {
+    .btn-service-case {
+        text-align: center;
+    }
+}
+@media (max-width: 768px) {
+
+    section{overflow: hidden;}
+    .short-logo {
+        margin-left: 10px;
+    }
+
+    .tags__list {
+        padding: 0 0;
+    }
+    .tags__list li a {
+        padding: 15px 25px;
+    }
+    .tags__list li:nth-child(3),
+    .tags__list li:nth-child(7) {
+        margin-left: 0;
+    }
+    .tags__list li {
+        line-height: inherit;
+    }
+    .lottie_slider_area .item {
+        width: 100%;
+        height: 400px;
+    }
+    .lottie_slider .lottieplayer {
+        height: 350px !important;
+        width: 350px !important;
+        transform: scale(1);
+    }
+    .mmenu_item {
+        display: block !important;
+    }
+    .home_sectionvideo {
+        height: inherit;
+        margin: 0;
+    }
+    .servcie_team_content .btn-read {
+        position: static;
+    }
+    .servcie_team_img {
+        text-align: left;
+    }
+    .servcie_team_content h2 {
+        font-size: 1.5rem;
+        line-height: 2.2rem;
+    }
+    .section_testimonial .owl-nav {
+        position: static;
+        margin: 28px 0 0 0;
+    }
+    section br {
+        display: none;
+    }
+    .filter_shadow {
+        display: none;
+    }
+    .section_philosphy h2,
+    .section_intro h2 {
+        font-size: 1.75rem;
+        line-height: 2.5rem;
+    }
+    ul#myTab {
+        display: inline-block;
+        justify-content: normal !important;
+    }
+    .spcl-card-img {
+        background: transparent;
+        margin-top: 25px;
+    }
+    .section_tools .nav-tabs .nav-link.active:after {
+        display: none;
+    }
+    .section_tools .nav-tabs .nav-link {
+        font-size: 1rem;
+    }
+    .logos_area {
+        justify-content: normal !important;
+        display: block !important;
+        margin: 0 !important;
+        text-align: center;
+    }
+    .section_partner .logos_area .logos_p {
+        width: 29%;
+        margin-bottom: 40px;
+        float: none !important;
+        text-align: center;
+        margin-right: 5%;
+    }
+    .section_partner .logos_area .logos_p img {
+        max-width: 90%;
+        max-height: 38px;
+    }
+    .section_partner .logos_area .logos_p:nth-child(3n) {
+        margin-right: 0 !important;
+    }
+    .logos_area .logos {
+        width: 32%;
+        display: inline-block;
+        margin-bottom: 30px;
+        vertical-align: top;
+    }
+    .logos img {
+        max-width: 60px;
+        margin: 0 auto 15px !important;
+        max-height: 60px;
+        vertical-align: top;
+    }
+    .section-project-content h4 {
+        margin-bottom: 75px;
+        line-height: 36px;
+        font-size: 22px;
+    }
+    .sub_title {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+    .section_testimonial h5 {
+        font-size: 18px;
+        line-height: 36px;
+    }
+    .mb-100 {
+        margin-bottom: 60px;
+    }
+    .section_awards .logos img {
+        max-width: 80%;
+    }
+    .sub_title br {
+        display: none;
+    }
+    .section_keys {
+        padding-bottom: 100px;
+    }
+    section h2 br {
+        display: none;
+    }
+    .footer-logo {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .footer-section {
+        padding: 60px 0;
+        overflow: hidden;
+    }
+    .footerdiv {
+        display: block !important;
+    }
+    .section_specialize .badge {
+        display: none;
+    }
+    section.section {
+        height: 100vh !important;
+        overflow: hidden;
+    }
+    .fp-tableCell {
+        height: 100vh !important;
+    }
+    .section_specialize,
+    .section_different {
+        padding: 60px 0;
+    }
+    .card-effect2,
+    .card-effect4 {
+        margin-bottom: 120px;
+    }
+    .spcl-card-img,
+    .backtotop {
+        display: none;
+    }
+    .sepcl_work ul li {
+        width: 100%;
+        line-height: 36px;
+    }
+    .sepcl_work ul li:after {
+        top: 13px;
+    }
+    .shapes {
+        float: none;
+    }
+    .shape-ellipse,
+    .shape-rectangle {
+        margin: auto;
+    }
+    .shape-polygon {
+        position: absolute;
+        top: 159px;
+        left: 58px;
+        width: 250px;
+    }
+    .shape-ellipse {
+        margin-bottom: 135px;
+    }
+    .gotobtm {
+        display: none;
+    }
+    .sec_philo_mobile img {
+        position: absolute;
+        top: 0;
+        height: 100vh;
+        width: 100%;
+        object-fit: cover;
+    }
+    .listing_show li sup {
+        font-size: 14px;
+        top: 0px;
+        left: 3px;
+    }
+    .listing_show li {
+        font-size: 24px;
+        line-height: 70px;
+    }
+    .we_offer .listing_show {
+        padding: 40px 0 40px 25px;
+    }
+    .listing_show_img {
+        margin-left: 25px;
+        background: #1c339b;
+        height: inherit;
+    }
+    .listing_show_content {
+        padding: 40px 25px;
+        height: inherit;
+    }
+    .we_offer .section-project-content h4 {
+        line-height: 36px;
+        font-size: 18px;
+    }
+    .listing_show_data_area {
+        height: 65vh;
+        background: #ba4ea8;
+    }
+    .listing_show_data {
+        height: auto;
+    }
+    .sec_pro_img_area {
+        text-align: center;
+        max-width: 75%;
+    }
+    .section_intro .section_common {
+        margin-top: 0;
+    }
+    .section_project_new .sepcl_work ul li {
+        width: 100%;
+        margin-bottom: 2px;
+    }
+    .section_project_new .sec_pro_img-cover {
+        display: none;
+    }
+    .section_keys_content h4,
+    .section_different .sub_title {
+        font-size: 22px;
+        line-height: 36px;
+    }
+    .section_project_new .cate-heading {
+        padding-top: 50px;
+        margin-bottom: 30px;
+    }
+    .section_project_new p {
+        font-size: 16px;
+    }
+    .section_keys_content p {
+        font-size: 16px;
+    }
+    .section_testimonial {
+        padding: 50px 0;
+    }
+    .card-dark-testi {
+        padding: 30px;
+        min-height: inherit;
+    }
+    br.nohide {
+        display: block !important;
+    }
+    .smobiletabs {
+        display: block !important;
+    }
+    .hmobiletabs {
+        display: none !important;
+    }
+    .smobiletabs .listing_show_data_area {
+        height: auto;
+        overflow: hidden;
+    }
+    .smobiletabs .listing_show_data {
+        position: relative;
+    }
+    .section_testimonial .container-fluid,
+    .casefastrr .container-fluid {
+        padding: 0 25px;
+    }
+    .hmobile {
+        display: none !important;
+    }
+    .abouts_info h2 {
+        font-size: 2.125rem;
+    }
+    .spclaboutshape01 {
+        margin-bottom: 90px;
+    }
+    .abouts_info .angles-circles {
+        width: 200px;
+        height: 200px;
+    }
+    .about-shape-content h4 {
+        margin-bottom: 30px;
+    }
+    .btmreadmore {
+        position: static;
+        margin-bottom: 30px;
+    }
+    .box-col-1 {
+        height: inherit;
+    }
+    .box_00 {
+        padding: 0 !important;
+        margin: 0 !important;
+        position: static !important;
+    }
+    .box_00.box_03 {
+        transform: none;
+    }
+    .arrow-point-pro {
+        display: none;
+    }
+    .process-section-img {
+        max-width: 50%;
+        text-align: center;
+        margin: 30px 0 0 0 !important;
+    }
+    .process-section {
+        padding: 100px 0;
+    }
+    .process_aspect {
+        padding: 50px 0;
+    }
+    .process_count2 {
+        left: -50px;
+        right: inherit;
+    }
+    .process_count {
+        top: -20px;
+        left: -20px;
+        font-size: 40px;
+        line-height: 100px;
+        width: 100px;
+        height: 100px;
+    }
+    .section-difference .logos_area {
+        margin-bottom: 30px !important;
+    }
+    .abouts_info,
+    .service_team,
+    .section_faq {
+        padding: 50px 0;
+    }
+    .section_faq {
+        padding: 100px 0;
+    }
+    .servcie_team_img img {
+        float: none;
+        margin-top: 30px;
+    }
+    .count-service h1 {
+        font-size: 2rem;
+    }
+    .btn-service-case {
+        margin-top: 25px;
+    }
+    .count-service {
+        margin-bottom: 20px;
+    }
+    .secvice-content img {
+        margin-bottom: 25px;
+    }
+    .section_contents .sepcl_work ul li {
+        width: 100%;
+        display: block;
+    }
+    .content-case-watch h3 {
+        font-size: 1.5rem;
+        line-height: inherit;
+    }
+    .content-case-watch {
+        margin-top: 25px;
+    }
+    .shapes_case,
+    .shapes_case3,
+    .shapes_case2 {
+        text-align: center;
+    }
+    .shapes_case2 img {
+        max-width: 40% !important;
+        margin-top: 25px !important;
+        margin-right: 25px;
+    }
+    .shapes_case2 img:nth-child(2) {
+        margin-right: 0;
+    }
+    .shapes_case2 img:nth-child(2) {
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .shapes_case3 img {
+        margin-right: 0;
+    }
+    .tab-watch2 img {
+        margin-top: 0;
+    }
+    .section_project_new .btn-more {
+        margin-bottom: 30px;
+        display: inline-block;
+    }
+    .ecommerce_banner {
+        display: none;
+    }
+    .section-project-content .project03_img {
+        max-height: 300px;
+    }
+    .btn-read span img {
+        margin-bottom: 0;
+    }
+    ul.quick-link li {
+        list-style: disc inside;
+        color: #838383;
+    }
+    .section__awards {
+        margin: 0;
+        padding: 0;
+    }
+    .section__awards .container {
+        padding: 0;
+    }
+    .awards_section .owl-nav {
+        position: static;
+        margin-top: 30px;
+    }
+    .awards_slider {
+        margin-top: 30px;
+    }
+    .awards_section .owl-carousel .awards_img {
+        max-width: 80%;
+    }
+    .awards_img:before {
+        display: none;
+    }
+    .section__awards .awards_section {
+        padding: 50px 30px;
+    }
+    .py-100 {
+        padding: 50px 0;
+    }
+    .ecommerce-section-content {
+        padding-top: 50px;
+        padding-left: 10px;
+        padding-right: 0;
+    }
+    .ecommrow {
+        margin-bottom: 50px;
+    }
+    .roi-service {
+        padding: 50px 0;
+    }
+    .ecommerce-section-content .ecommerce_count {
+        position: static;
+        margin-bottom: 25px;
+    }
+    .section_intro_case_fastrr .intro_content {
+        height: inherit;
+        margin-top: 0;
+    }
+    .section_intro_case_fastrr {
+        margin-bottom: 0;
+        align-items: center;
+        display: flex;
+    }
+    .case_banner_fastrr {
+        position: static;
+        max-width: 100%;
+        margin: 0;
+    }
+    .case_banner_watch_bg {
+        display: none;
+    }
+    .ipad__img {
+        max-width: 90%;
+        margin-bottom: 30px;
+    }
+    .fastrr_texti_picks {
+        margin-bottom: 15px;
+    }
+    .content-case-fastrr {
+        margin-bottom: 50px !important;
+    }
+    .title__heading,
+    .fastrr_texti .sub_title,
+    .section_intro_case_fastrr p {
+        font-size: 24px;
+        line-height: inherit;
+    }
+    .fastrr_section_img_reat2,
+    .fastrr_section_title_reat {
+        padding-top: 0;
+    }
+    .trans__img__fastrr1 {
+        padding-bottom: 0;
+    }
+    .title__heading_big {
+        font-size: 32px;
+        line-height: inherit;
+    }
+    .prototype__img {
+        margin-bottom: 60px;
+    }
+    .fastrr_section_title_reat .px-xl-5 {
+        padding: 0 !important;
+    }
+    .fastrr_colorheading {
+        text-align: left !important;
+        margin-bottom: 25px;
+    }
+    .fastrr_texti_pick {
+        display: block !important;
+    }
+    .fastrr_texti {
+        padding: 50px 0;
+    }
+    .casebanner {
+        background: #080808;
+    }
+    .content-case-watch {
+        margin-bottom: 25px;
+    }
+    .smm__fastrr .smm__fastrrarea {
+        padding: 50px 0 50px;
+    }
+
+    .testi__container {
+        margin: 0 25px;
+    }
+
+    .footer-menu {
+        display: block !important;
+    }
+    .footer-menu br {
+        display: none;
+    }
+    .footer_items {
+        margin-right: 0;
+    }
+    .testi__container {
+        margin-left: 25px;
+    }
+    section.section_specialize,
+    section.section_specialize .fp-tableCell,
+    .section_different,
+    .section_different .fp-tableCell,
+    section.section_partner,
+    section.section_partner .fp-tableCell,
+    section.section_project_new,
+    section.section_project_new .fp-tableCell,
+    section.we_offer,
+    section.we_offer .fp-tableCell,
+    section.section_testimonial,
+    section.section_testimonial .fp-tableCell,
+    section.section_different,
+    section.section_different .fp-tableCell,
+    section.abouts_info,
+    section.abouts_info .fp-tableCell,
+    section.process-section,
+    section.process-section .fp-tableCell,
+    section.process_aspect,
+    section.process_aspect .fp-tableCell,
+    section.section_keys,
+    section.service_team,
+    section.section_faq,
+    section.casebanner,
+    section.ecommerce-section,
+    section.section__awards,
+    section.roi-service,
+    section.fastrr_texti {
+        height: inherit !important;
+    }
+}
+@media (max-width: 565px) {
+    .section_project_new3 .sec_pro_img {
+        padding: 0;
+    }
+    .project_img_full img {
+        width: calc(100% + 50px);
+        margin-left: -25px;
+        max-width: 115% !important;
+    }
+    .container {
+        padding: 0 25px;
+    }
+    .sub_title {
+        font-size: 1.5rem;
+        line-height: 2.2rem;
+    }
+    .foo_list li {
+        width: 100%;
+        float: none !important;
+    }
+    .section_awards,
+    .section_keys {
+        padding: 50px 0;
+    }
+    .section_tools ul#myTab {
+        padding-bottom: 20px;
+    }
+    .shape-polygon {
+        top: 22%;
+        left: 12%;
+        width: 186px;
+    }
+    .shape-polygon span {
+        margin: -16px 0 0 -79px;
+    }
+    .shape-ellipse {
+        margin-bottom: 120px;
+        width: 150px;
+        height: 150px;
+    }
+    .shape-rectangle {
+        width: 180px;
+        height: 140px;
+    }
+    .navbar-fixed .nav-links li a {
+        font-size: 1.5rem;
+    }
+    .logo-loader {
+        top: 36%;
+        left: 41%;
+    }
+    .burger {
+        right: 10px;
+    }
+    img.roll_images1 {
+        display: none;
+    }
+    .card-specl .c-details h3 {
+        font-size: 1.25rem;
+    }
+    .spcl-card-img {
+        width: 100%;
+        text-align: center;
+    }
+    .header-section a.logo img {
+        display: none;
+    }
+    h3.foo-tiile {
+        font-size: 1.65rem;
+    }
+    .rectangle {
+        width: 40px;
+        height: 40px;
+    }
+    .navbar-fixed .nav-links li {
+        width: 100%;
+        margin: 0.5rem 0;
+    }
+    .listing_show .cate-heading {
+        margin-bottom: 25px !important;
+    }
+
+    .section_philosphy {
+        position: relative;
+        background: #101012;
+    }
+    .section_philosphy:before {
+        background: rgb(0 0 0 / 50%);
+        content: "";
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        z-index: 1;
+    }
+    .section_philosphy .container {
+        z-index: 11;
+        position: relative;
+    }
+    .listing_show_img {
+        margin-left: 0;
+        margin-bottom: 25px;
+        width: calc(100% + 25px);
+    }
+    .listing_show_data:after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        background-color: #fff;
+        opacity: 0.2;
+        height: 1px;
+        left: 0;
+        width: 100%;
+        margin-left: 25px;
+    }
+    .listing_show_content .cate-heading {
+        font-family: "Jeko-ExtraBold";
+    }
+    .listing_show_data2 .listing_show_img,
+    .listing_show_data4 .listing_show_img {
+        margin-left: -25px;
+    }
+    .listing_show_data2:after,
+    .listing_show_data4:after {
+        margin-left: 0;
+        width: calc(100% - 25px);
+    }
+    .section_project_new {
+        padding-top: 50px;
+        overflow-x: hidden;
+    }
+    .section_different {
+        background-color: #f2f2f2;
+        padding-bottom: 0;
+    }
+
+    .shapes_case ul li {
+        margin-right: 25px;
+        width: 40%;
+        display: inline-block;
+        vertical-align: top;
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+    .shapes_case ul li:nth-child(2) {
+        margin-right: 0;
+    }
+    .shapes_case ul {
+        display: block;
+    }
+    .shapes_case ul li img {
+        width: 100%;
+        max-width: 100%;
+    }
+    .shapes_case ul li:nth-child(3) {
+        margin-top: 25px !important;
+    }
+}
