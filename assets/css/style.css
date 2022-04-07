@@ -2187,7 +2187,10 @@ section.process_aspect_fastrr {
     object-fit: contain;
     bottom: 0;
     left: 0;
-    width: 100%;
+    width: 85%;
+  
+    margin: auto;
+    right: 0;
 }
 .case_banner_fastrr {
     position: absolute;
@@ -2325,7 +2328,7 @@ section.process_aspect_fastrr {
     line-height: 70px;
 }
 .prototype__images {
-    padding: 150px 0;
+    padding: 150px 0; text-align: center;
 }
 .prototype__img {
     margin-bottom: 200px;
@@ -2580,7 +2583,7 @@ div#hereform {
 
     .input__radio  label.active {
 
-        background: -webkit-linear-gradient(#ba4ea8, #526ad6);
+        background: #ba4ea8;
       
     }
 

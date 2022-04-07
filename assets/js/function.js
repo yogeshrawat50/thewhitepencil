@@ -398,24 +398,7 @@ jQuery(document).ready(function() {
 		}, 500);
 	});
 });
-// HOME VIDEO PLAY BUTTON
-var x = document.getElementById("myVideo");
 
-function playVid() {
-	x.play();
-}
-
-function pauseVid() {
-	x.pause();
-}
-$(window).scroll(function() {
-	if($(this).scrollTop() > 650) {
-		x.pause();
-		$(".iframes__home").removeClass("iframes__home_start");
-		$(".videopanel_lapi_bg").removeClass("videopanel__start");
-		$(".stop__btn").removeClass("stop__btn_start");
-	}
-});
 // lottie js
 
 var owl = $('.owl-carousel.lottie_slider').owlCarousel({

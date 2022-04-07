@@ -274,22 +274,22 @@
                             </div>
 
                             <div class="footer-menu justify-content-around d-flex">
-                                <div class="footer_items">
+                            <div class="footer_items">
                                     <ul class="quick-link">
-                                        <li><a href="about-us">About Us</a></li>
-                                        <li><a href="white-pencil-studio-process"> Our Process </a></li>
-                                        <li><a href="javascript:void(0)" class="gotoform"> Contact Us </a></li>
+                                        <li><a href="https://thewhitepencil.com/about-us">About Us</a></li>
+                                        <li><a href="https://thewhitepencil.com/white-pencil-studio-process"> Our Process </a></li>
+                                        <li><a href="https://thewhitepencil.com/contact"> Contact Us </a></li>
                                         <li><a href="https://thewhitepencil.com/blogs" target="_blank"> Blogs </a></li>
                                     </ul>
                                 </div>
 
                                 <div class="footer_items">
                                     <ul class="quick-link">
-                                        <li><a href="service/ui-ux-design-agency">Immersive Design </a></li>
-                                        <li><a href="service/perfomance-marketing-agency"> Performance Marketing </a></li>
+                                        <li><a href="https://thewhitepencil.com/service/ui-ux-design-agency">Immersive Design </a></li>
+                                        <li><a href="https://thewhitepencil.com/service/perfomance-marketing-agency"> Performance Marketing </a></li>
                                         <li><a href="javascript:void()" title="coming soon"> Brand Building </a></li>
-                                        <li><a href="service/content-marketing-agency"> Content Marketing </a></li>
-                                        <li><a href="service/ecommerce-marketing-agency"> eCommerce Experience </a></li>
+                                        <li><a href="https://thewhitepencil.com/service/content-marketing-agency"> Content Marketing </a></li>
+                                        <li><a href="https://thewhitepencil.com/service/ecommerce-marketing-agency"> eCommerce Experience </a></li>
                                     </ul>
                                 </div>
 

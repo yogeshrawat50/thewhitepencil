@@ -189,8 +189,8 @@
         line-height: 78.3px;
     }
     .case_banner_fastrr {
-        right: -5%;
-        max-width: 90%;
+        right: 5%;
+        max-width: 75%;
     }
     .section_testimonial .owl-nav {
         right: 25%;
@@ -199,7 +199,7 @@
         max-width: 90%;
         margin-top: 25px;
     }
-    .homepage .container {
+.container {
         max-width: 1520px;
     }
     .keyheadm {
@@ -821,11 +821,18 @@
         margin-bottom: 50px !important;
     }
     .title__heading,
-    .fastrr_texti .sub_title,
-    .section_intro_case_fastrr p {
+    .fastrr_texti .sub_title
+ {
         font-size: 24px;
         line-height: inherit;
     }
+    .section_intro_case_fastrr p {
+        font-size: 18px;
+        line-height: 30px;     margin-bottom: 90px;
+    }
+   .section_intro_case_fastrr h2{
+        font-size:  34px;}
+
     .fastrr_section_img_reat2,
     .fastrr_section_title_reat {
         padding-top: 0;
@@ -844,9 +851,10 @@
         padding: 0 !important;
     }
     .fastrr_colorheading {
-        text-align: left !important;
+        text-align: center  !important;
         margin-bottom: 25px;
     }
+
     .fastrr_texti_pick {
         display: block !important;
     }
@@ -879,6 +887,148 @@
     .testi__container {
         margin-left: 25px;
     }
+
+
+    .section_intro_case_fastrr br {
+        display: inherit;
+    }
+
+
+    .case_banner_fastrr {
+        margin-left: -25px;
+    }
+ 
+    img.banner-cirle-m {
+        position: absolute;
+        bottom: 0;
+    }
+
+.content-case-fastrr p {
+        font-size: 18px;
+        line-height: 32px;    font-family: "Jeko-Regular";
+    }
+
+
+    .content-case-fastrr-title h3 {
+      
+
+        font-size: 28px;
+        line-height: 36.4px;
+    }
+
+    .prototype__images {
+        padding: 75px 0;
+        
+    }
+
+    .guide_fastrr {
+ 
+        padding-top: 0;
+   
+    }
+    .guide_fastrr_title h3 { font-size: 28px; line-height: 36px;
+        margin: 0;
+    }
+    .guide_fastrr_title {
+
+        top: -5px;
+        text-align: center;
+        margin: auto;
+        left: 0;
+        right: 0;
+    }
+    .guide_fastrr  img{
+        
+        max-width: 75%;
+        margin: auto;
+    }
+    .img_content_angle_fastrr {
+        text-align: center;
+    }
+
+    .subtitle_fastrr, .ipad__content p{font-size: 16px; line-height: 27px; font-family: "Jeko-Regular"; font-weight: 400;}
+
+
+.title_lottie span { display: block;}
+
+.smm__fastrr2 .case_faster_mobile {
+    transform: scale(2) !important;
+}
+.smm__fastrr2 .case_banner_watch_bg2  {
+    transform: scale(1.5) !important;
+}
+.smm__fastrr2 
+p.subtitle_fastrr {
+    margin-bottom: 90px;
+}
+
+.smm__fastrr2 {
+    padding-bottom: 150px  !important;
+}
+
+.fastrr_texti {
+    background: #EDF1FF;
+}
+
+.fastrr_texti
+.fastrr_section_title_reat {
+    text-align: left !important;
+}
+.fastrr_texti_pick{ position: relative; padding-left: 92px;}
+
+.fastrr_texti_picks {
+    position: absolute;
+    max-width: 72px; top:0;
+    left: 0;
+}
+
+.fastrr_texti_pick
+h4 {
+    font-size: 17px;
+
+    margin: 8px 0 1px !important;
+}.fastrr_texti_pick  p {
+    font-size: 17px;
+    
+}
+.contact_intro h1 {
+    font-size: 36px;
+    margin-bottom: 40px;
+    line-height: initial;
+}
+
+.contact_intro
+.contact-content p {
+    font-size: 18px;
+    line-height: 32px;
+   
+    margin-bottom: 50px;
+}
+.mmenu_item {
+    height: calc(100vh - 150px) !important;
+    margin-top: 150px;}
+
+    .contact_intro {
+        padding-top: 100px;
+    }
+
+.input__radio  label {
+
+    margin: 0 15px 15px 0;
+
+    font-size: 16px;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 30px;
+}
+.contact_intro
+
+.contact-content{ margin-bottom: 100px; }
+
+.section_intro .btm_scllpage {
+    padding: 20px 0 0 15px;
+}
+.fastrr_texti .sub_title{     font-size: 20.12px; line-height: 34.7px;}
     section.section_specialize,
     section.section_specialize .fp-tableCell,
     .section_different,
