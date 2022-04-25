@@ -690,7 +690,8 @@ img {
     transform: rotate(15deg);
 }
 h3.foo-tiile {
-    font-size: 44px; margin-bottom: 60px;
+    font-size: 44px;
+    margin-bottom: 60px;
 }
 .contact-form input.form-control {
     background: none;
@@ -2188,7 +2189,7 @@ section.process_aspect_fastrr {
     bottom: 0;
     left: 0;
     width: 85%;
-  
+
     margin: auto;
     right: 0;
 }
@@ -2328,7 +2329,8 @@ section.process_aspect_fastrr {
     line-height: 70px;
 }
 .prototype__images {
-    padding: 150px 0; text-align: center;
+    padding: 150px 0;
+    text-align: center;
 }
 .prototype__img {
     margin-bottom: 200px;
@@ -2491,7 +2493,6 @@ section.process_aspect_fastrr {
     transition: background-color 5000s ease-in-out 0s;
 }
 
-
 .foooter__imgroll .roll_images {
     position: absolute;
     -webkit-animation: rotation 5s infinite linear;
@@ -2553,6 +2554,14 @@ section.process_aspect_fastrr {
     -moz-transition: all 0.3s;
     transition: all 0.3s;
 }
+
+.header-section.fixed__header2 {
+    background: #0f1012;
+    padding: 15px 0;
+    -webkit-transition: all 0.3s923;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
 div#hereform {
     margin-top: 25px;
 }
@@ -2564,44 +2573,175 @@ div#hereform {
     top: 20px;
 }
 
+.input__radio input[type="radio"] {
+    position: absolute;
+    z-index: -1;
+}
 
-.input__radio  input[type="radio"]  { position: absolute;       z-index: -1; }
-
-
-.input__radio  label{  position: relative; top:0;   background: #212020;
+.input__radio label {
+    position: relative;
+    top: 0;
+    background: #212020;
     border: 1px solid #303030;
     box-sizing: border-box;
-    border-radius: 44.5px; letter-spacing: 0.02em; margin: 0 20px 20px 0; cursor: pointer;
+    border-radius: 44.5px;
+    letter-spacing: 0.02em;
+    margin: 0 20px 20px 0;
+    cursor: pointer;
 
-    color: #E2E2E2; font-size: 18px;  height: 67px; line-height: 67px; padding: 0 40px;}
+    color: #e2e2e2;
+    font-size: 18px;
+    height: 67px;
+    line-height: 67px;
+    padding: 0 40px;
+}
 
+.input__radio label.active {
+    background: #ba4ea8;
+}
 
+.contact-form_contact {
+    position: relative;
+    z-index: 1;
+}
+.contact-form_contact .filter_shadow {
+    left: 65%;
 
-
-
-
-
-    .input__radio  label.active {
-
-        background: #ba4ea8;
-      
-    }
-
-    .contact-form_contact{ position: relative; z-index: 1; }
-    .contact-form_contact .filter_shadow {
-        left: 65%;
-     
-        opacity: .6;
-    }
-.contact_intro
-.contact-content p { 
+    opacity: 0.6;
+}
+.contact_intro .contact-content p {
     font-size: 23px;
     line-height: 43px;
-    letter-spacing: 0.02em;   margin-bottom:70px;  }
-    .contact_intro h1{font-size: 64px; margin-bottom:  50px;
-        line-height: 78px;}
+    letter-spacing: 0.02em;
+    margin-bottom: 70px;
+}
+.contact_intro h1 {
+    font-size: 64px;
+    margin-bottom: 50px;
+    line-height: 78px;
+}
 
-        .contact-content{
-            position: sticky;
-            top: 100px;
-        }
+.contact-content {
+    position: sticky;
+    top: 100px;
+}
+/* Start case study : Dearpet –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.section_intro_case_dearpet {
+    background-color: #ffbd1f; margin-bottom: 0;
+}
+
+
+
+.case_banner_dearpet {
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+    margin: auto;
+}
+
+
+.case_banner_dearpet img {
+    max-height: 550px;
+}
+
+
+.section_intro_case_dearpet .case-studyheading {
+    margin-bottom: 10px;     margin-top: 30px;
+}
+
+.process_aspect_dearpet{ height: 100vh  !important;}
+
+.purple_section{ background-color: #7B4BC5;}
+
+.dearpet_prototype .subtitle_dearpet {color: #E7D8FF; }
+
+
+
+.gray__section{ background: #F5EFFF;}
+ 
+
+.daerpet__img {
+    position: relative;
+    margin: 0 100px;
+   margin-top: -100px;
+}
+
+.social__media_dearpet{ background: #F5EFFF}
+
+
+.social__media_dearpet .title__heading{ color:  #472A7F; }
+.social__media_dearpet .subtitle_dearpet{ color:   #472A7F;
+   }
+
+   .dearept__tags span{ color:  #472A7F; background: #EFE1FF; font-size: 23.12px;
+    line-height: 51px; margin: 0 100px 50px 0; 
+    border-radius: 40px; padding: 15px 50px; display: inline-block;}
+
+    .pic_00 {
+        margin-right:  15px;
+    }
+
+
+    .pic_00 img {
+        margin-bottom:  15px;
+    }
+
+
+
+    .pic_01{ margin-top: 60px; margin-left: -20px;}
+    .pic_02{ margin-top: 30px;}
+
+    .pic_03{ margin-top: 90px;}
+
+    
+    .pic_05{ margin-top: 30px;         margin-right:  0;}
+
+
+    .shopify__dearpet{ background-color: #FDF2EF   ;} 
+
+    .shopify__dearpet,   .shopify__dearpet .subtitle_fastrr{color:#FF8F59;
+}
+
+
+    
+.shopify__dearpet
+.dearept__tags span{ color:  #FF8F59; background: #FFEAE4;}
+
+.wall__img{margin-top: -50px;}
+
+.ooh_marketing_dearpet { background: #FFE9EB; color: #E84F66;}
+
+.ooh_marketing_dearpet .subtitle_dearpet{ color: #E84F66;}
+
+.performing_dearpet{ background-color: #F5F5F5; color: #FF8F59;}
+
+.performing_dearpet .subtitle_dearpet{ color: #FF8F59;}
+.performing_dearpet .social_ad img {
+    margin: 0 -50px;
+}
+
+.performing_dearpet .social_ad img:nth-child(2){ margin-top: 100px;}
+
+.campaign_dearpet { background: #EAF3FF; color: #004AA9;
+}
+
+.campaign_dearpet .subtitle_dearpet{ color: #004AA9;}
+
+.campaign_content_dearpet h1 { color: #004AA9; font-size:   180px; line-height:  200px;} 
+
+.campaign_content_dearpet p{  color:#86AFE2 } 
+
+
+
+/* Start case study : indian –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.section_intro_case_indian {
+    background-color: #AF4724; 
+}
+
+.section_intro_case_indian
+ p {
+
+    margin-bottom: 75px;
+}

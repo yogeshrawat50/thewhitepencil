@@ -151,15 +151,15 @@
         line-height: 3.5rem;
     }
     .we_offer .section-project-content h4 {
-        line-height: 48px;
-        font-size: 2.25rem;
+        line-height: 40px;
+        font-size: 1.75rem;
     }
     .listing_show_img {
         height: 35vh;
     }
     .listing_show li {
         font-size: 2.25rem;
-        line-height: 120px;
+        line-height: 100px;
     }
     .burger span {
         height: 42px;
@@ -177,6 +177,15 @@
     }
 }
 @media (min-width: 1800px) {
+
+    .listing_show li {
+  
+        line-height: 120px;
+    }
+    .we_offer .section-project-content h4 {
+        line-height: 48px;
+        font-size: 2.25rem;
+    }
     h3.foo-tiile {
         font-size: 56px; 
     }
@@ -208,6 +217,16 @@
     .btm_scllpage {
         width: 1520px !important;
     }
+}
+
+
+
+
+@media(min-width:1921px){ 
+    .section_philosphy{background-size: cover}
+
+
+
 }
 @media (max-width: 1601px) {
     .awards_section .owl-carousel .awards_img {
@@ -329,6 +348,13 @@
     }
 }
 @media (max-width: 768px) {
+
+
+
+
+
+
+
 
     section{overflow: hidden;}
     .short-logo {
@@ -1028,6 +1054,79 @@ h4 {
 .section_intro .btm_scllpage {
     padding: 20px 0 0 15px;
 }
+
+
+
+
+.section_intro_case_dearpet
+
+.intro_content {
+    height: 100vh;
+  
+}
+.case_banner_dearpet {
+    margin: 0;
+    position: absolute;
+}
+.section_intro_case_dearpet .intro_content
+h2{
+    margin-top: 200px;
+}
+
+.dearpet_prototype img {
+    max-width: 40%;
+}
+
+
+.dearpet_prototype_img {
+    justify-content: space-between;
+
+    display: flex;
+}
+
+.daerpet__img {
+    margin: 0;
+}
+
+.dearpet__addbrand .title__heading {
+    font-size: 36px;
+    line-height: 45px;
+}
+
+.dearpet_brand_img {
+    display: block !important;
+}
+
+
+.dearpet_brand_img  img {
+    max-width: 80%;
+    margin-bottom: 80px;
+}
+
+.dearept__tags span {
+    font-size: 12.12px;
+    margin: 0 2% 20px 2%;
+    width: 45%;
+    padding: 10px;
+    line-height: 19px;
+}
+.performing_dearpet .social_ad img:nth-child(2) {
+    margin-top: 0;
+}
+
+.campaign_content_dearpet  { text-align: center;}
+.campaign_content_dearpet h1 {
+
+    font-size: 100px;
+    line-height: 100px;
+}
+
+    .performing_dearpet .social_ad img {
+        margin: 0 0 -50px;
+   
+    
+}
+.social__media_dearpet .subtitle_dearpet{     font-family: "Jeko-SemiBold";}
 .fastrr_texti .sub_title{     font-size: 20.12px; line-height: 34.7px;}
     section.section_specialize,
     section.section_specialize .fp-tableCell,

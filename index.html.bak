@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Digital Marketing Agency Dubai UAE - Best SEO Company in Dubai | White Pencil Studio</title>
-		<meta name="description" content=" White Pencil Studio is a leading digital marketing agency in Dubai, UAE - Get seo services in Dubai from best industry experts. Contact us today! ">
+			<meta name="description" content=" White Pencil Studio is a leading digital marketing agency in Dubai, UAE - Get seo services in Dubai from best industry experts. Contact us today! ">
         <link rel="icon shortcut" href="assets/images/favicon.png" type="image/x-icon" />
         <link rel="canonical" href="https://www.thewhitepencil.com/" />
 		 <link rel="stylesheet" href="assets/fonts/font.css" />
@@ -231,7 +231,7 @@
                                         </div>
 
                                         <div class="listing_show_img">
-                                            <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1646983036/assets/images/we-offer/design_rv379l.png" alt="design" />
+                                            <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1646983037/assets/images/we-offer/perfomance_enwnvz.png" alt="design" />
                                         </div>
                                     </div>
                                     <!-- data list 02 -->
@@ -272,7 +272,7 @@
                                         </div>
 
                                         <div class="listing_show_img">
-                                            <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1650628906/assets/images/we-offer/content_plzrtt.png" alt="content" />
+                                            <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1646983053/assets/images/we-offer/content_cevuxp.png" alt="content" />
                                         </div>
                                     </div>
 
@@ -363,7 +363,7 @@
                                                 <h6 class="mb-5 font-m cate-heading" data-aos="fade-up">01 Immersive Design</h6>
 
                                                 <div class="listing_show_img" data-aos="fade-left">
-                                                    <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1646983036/assets/images/we-offer/design_rv379l.png" alt="design" />
+                                                    <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1646983037/assets/images/we-offer/perfomance_enwnvz.png" alt="design" />
                                                 </div>
                                                 <h4 class="font-jr text-white mb-5">
                                                     Whether we are designing your <br />
@@ -406,7 +406,7 @@
                                             <div class="section-project-content" data-aos="fade-up">
                                                 <h6 class="mb-5 font-m cate-heading" data-aos="fade-up">03 Content Marketing</h6>
                                                 <div class="listing_show_img" data-aos="fade-left">
-                                                    <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1650628906/assets/images/we-offer/content_plzrtt.png" alt="content" />
+                                                    <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1646983053/assets/images/we-offer/content_cevuxp.png" alt="content" />
                                                 </div>
                                                 <h4 class="font-jr text-white mb-5">
                                                     When a brand’s growth curve starts <br />
@@ -482,7 +482,7 @@
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-5 col-md-6">
-                                <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1650631316/assets/images/project/logo05_jgyqwh.png" alt="project logo" class="pro_logos" data-aos="fade-up" />
+                                <img src="assets/images/project/logo05.png" alt="project logo" class="pro_logos" data-aos="fade-up" />
 
                                 <div class="section-project-content" data-aos="fade-up">
                                     <h4 class="font-jv sub_title text-white mb-5">
@@ -512,8 +512,8 @@
 
                             <div class="col-lg-7 col-md-6">
                                 <div class="sec_pro_img_area project__img project__img01 d-none d-sm-block">
-                                    <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1650631129/assets/images/project/project05bg_belnqq.png" alt="project bg" class="project__imagesbg" data-aos="zoom-in" />
-                                    <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1650631129/assets/images/project/project05_a8wnat.png" alt="project bg" class="project__images" data-aos="fade-up" />
+                                    <img src="assets/images/project/project05bg.png" alt="project bg" class="project__imagesbg" data-aos="zoom-in" />
+                                    <img src="assets/images/project/project05.png" alt="project bg" class="project__images" data-aos="fade-up" />
                                 </div>
                             </div>
                         </div>
@@ -770,7 +770,7 @@
                 </div>
             </section>
             <!-- ====== :: DIFFERENT SECTION :: ===== -->
-            <section class="py-100 section_different" style="position: relative;">
+            <section class="section section_different" style="position: relative;">
                 <div class="sec_pro_img-cover sec_pro_img-cover2">
                     <div class="shapes d-none d-sm-block">
                         <div class="shape-ellipse" data-aos="fade-down">
@@ -778,7 +778,7 @@
                         </div>
 
                         <div class="shape-polygon" data-aos="fade-right">
-                            <img src="https://res.cloudinary.com/thewhitepencil-com/image/upload/v1646983018/assets/images/polygon_prdmec.png" alt="polygon" />
+                            <img src="assets/images/polygon.png" alt="polygon" />
                             <span> Technology </span>
                         </div>
 
