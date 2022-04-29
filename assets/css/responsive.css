@@ -68,6 +68,11 @@
     }
 }
 @media (min-width: 1199px) and (max-width: 1900px) {
+    section.section_keys {
+        height: auto;
+        padding: 100px 0;
+    }
+
     .videopanel_lapi {
         width: 100%;
         height: 100%;
@@ -93,7 +98,7 @@
 }
 @media (min-width: 1500px) and (max-width: 1900px) {
     .videopanel_lapi_bg {
-        height: 600px;
+        height: 560px;
     }
 }
 @media (min-width: 1500px) {
@@ -177,9 +182,7 @@
     }
 }
 @media (min-width: 1800px) {
-
     .listing_show li {
-  
         line-height: 120px;
     }
     .we_offer .section-project-content h4 {
@@ -187,7 +190,7 @@
         font-size: 2.25rem;
     }
     h3.foo-tiile {
-        font-size: 56px; 
+        font-size: 56px;
     }
     .testi__container {
         margin-left: 200px;
@@ -208,7 +211,7 @@
         max-width: 90%;
         margin-top: 25px;
     }
-.container {
+    .container {
         max-width: 1520px;
     }
     .keyheadm {
@@ -219,14 +222,10 @@
     }
 }
 
-
-
-
-@media(min-width:1921px){ 
-    .section_philosphy{background-size: cover}
-
-
-
+@media (min-width: 1921px) {
+    .section_philosphy {
+        background-size: cover;
+    }
 }
 @media (max-width: 1601px) {
     .awards_section .owl-carousel .awards_img {
@@ -347,16 +346,23 @@
         text-align: center;
     }
 }
+
+@media (max-height: 720px) {
+    section.section_intro_home,
+    .service_team,
+    section.section.section__awards {
+        height: auto !important;
+        padding: 100px 0;
+    }
+    section.section_intro_home {
+        padding: 0 0 100px 0;
+    }
+}
+
 @media (max-width: 768px) {
-
-
-
-
-
-
-
-
-    section{overflow: hidden;}
+    section {
+        overflow: hidden;
+    }
     .short-logo {
         margin-left: 10px;
     }
@@ -388,7 +394,7 @@
     }
     .home_sectionvideo {
         height: inherit;
-        margin: 0;
+        margin-top: 0;
     }
     .servcie_team_content .btn-read {
         position: static;
@@ -847,17 +853,18 @@
         margin-bottom: 50px !important;
     }
     .title__heading,
-    .fastrr_texti .sub_title
- {
+    .fastrr_texti .sub_title {
         font-size: 24px;
         line-height: inherit;
     }
     .section_intro_case_fastrr p {
         font-size: 18px;
-        line-height: 30px;     margin-bottom: 90px;
+        line-height: 30px;
+        margin-bottom: 90px;
     }
-   .section_intro_case_fastrr h2{
-        font-size:  34px;}
+    .section_intro_case_fastrr h2 {
+        font-size: 34px;
+    }
 
     .fastrr_section_img_reat2,
     .fastrr_section_title_reat {
@@ -877,7 +884,7 @@
         padding: 0 !important;
     }
     .fastrr_colorheading {
-        text-align: center  !important;
+        text-align: center !important;
         margin-bottom: 25px;
     }
 
@@ -914,57 +921,50 @@
         margin-left: 25px;
     }
 
-
     .section_intro_case_fastrr br {
         display: inherit;
     }
 
-
     .case_banner_fastrr {
         margin-left: -25px;
     }
- 
+
     img.banner-cirle-m {
         position: absolute;
         bottom: 0;
     }
 
-.content-case-fastrr p {
+    .content-case-fastrr p {
         font-size: 18px;
-        line-height: 32px;    font-family: "Jeko-Regular";
+        line-height: 32px;
+        font-family: "Jeko-Regular";
     }
 
-
     .content-case-fastrr-title h3 {
-      
-
         font-size: 28px;
         line-height: 36.4px;
     }
 
     .prototype__images {
         padding: 75px 0;
-        
     }
 
     .guide_fastrr {
- 
         padding-top: 0;
-   
     }
-    .guide_fastrr_title h3 { font-size: 28px; line-height: 36px;
+    .guide_fastrr_title h3 {
+        font-size: 28px;
+        line-height: 36px;
         margin: 0;
     }
     .guide_fastrr_title {
-
         top: -5px;
         text-align: center;
         margin: auto;
         left: 0;
         right: 0;
     }
-    .guide_fastrr  img{
-        
+    .guide_fastrr img {
         max-width: 75%;
         margin: auto;
     }
@@ -972,162 +972,164 @@
         text-align: center;
     }
 
-    .subtitle_fastrr, .ipad__content p{font-size: 16px; line-height: 27px; font-family: "Jeko-Regular"; font-weight: 400;}
+    .subtitle_fastrr,
+    .ipad__content p {
+        font-size: 16px;
+        line-height: 27px;
+        font-family: "Jeko-Regular";
+        font-weight: 400;
+    }
 
+    .title_lottie span {
+        display: block;
+    }
 
-.title_lottie span { display: block;}
+    .smm__fastrr2 .case_faster_mobile {
+        transform: scale(2) !important;
+    }
+    .smm__fastrr2 .case_banner_watch_bg2 {
+        transform: scale(1.5) !important;
+    }
+    .smm__fastrr2 p.subtitle_fastrr {
+        margin-bottom: 90px;
+    }
 
-.smm__fastrr2 .case_faster_mobile {
-    transform: scale(2) !important;
-}
-.smm__fastrr2 .case_banner_watch_bg2  {
-    transform: scale(1.5) !important;
-}
-.smm__fastrr2 
-p.subtitle_fastrr {
-    margin-bottom: 90px;
-}
+    .smm__fastrr2 {
+        padding-bottom: 150px !important;
+    }
 
-.smm__fastrr2 {
-    padding-bottom: 150px  !important;
-}
+    .fastrr_texti {
+        background: #edf1ff;
+    }
 
-.fastrr_texti {
-    background: #EDF1FF;
-}
+    .fastrr_texti .fastrr_section_title_reat {
+        text-align: left !important;
+    }
+    .fastrr_texti_pick {
+        position: relative;
+        padding-left: 92px;
+    }
 
-.fastrr_texti
-.fastrr_section_title_reat {
-    text-align: left !important;
-}
-.fastrr_texti_pick{ position: relative; padding-left: 92px;}
+    .fastrr_texti_picks {
+        position: absolute;
+        max-width: 72px;
+        top: 0;
+        left: 0;
+    }
 
-.fastrr_texti_picks {
-    position: absolute;
-    max-width: 72px; top:0;
-    left: 0;
-}
+    .fastrr_texti_pick h4 {
+        font-size: 17px;
 
-.fastrr_texti_pick
-h4 {
-    font-size: 17px;
+        margin: 8px 0 1px !important;
+    }
+    .fastrr_texti_pick p {
+        font-size: 17px;
+    }
+    .contact_intro h1 {
+        font-size: 36px;
+        margin-bottom: 40px;
+        line-height: initial;
+    }
 
-    margin: 8px 0 1px !important;
-}.fastrr_texti_pick  p {
-    font-size: 17px;
-    
-}
-.contact_intro h1 {
-    font-size: 36px;
-    margin-bottom: 40px;
-    line-height: initial;
-}
+    .contact_intro .contact-content p {
+        font-size: 18px;
+        line-height: 32px;
 
-.contact_intro
-.contact-content p {
-    font-size: 18px;
-    line-height: 32px;
-   
-    margin-bottom: 50px;
-}
-.mmenu_item {
-    height: calc(100vh - 150px) !important;
-    margin-top: 150px;}
+        margin-bottom: 50px;
+    }
+    .mmenu_item {
+        height: calc(100vh - 150px) !important;
+        margin-top: 150px;
+    }
 
     .contact_intro {
         padding-top: 100px;
     }
 
-.input__radio  label {
+    .input__radio label {
+        margin: 0 15px 15px 0;
 
-    margin: 0 15px 15px 0;
+        font-size: 16px;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 30px;
+    }
+    .contact_intro .contact-content {
+        margin-bottom: 100px;
+    }
 
-    font-size: 16px;
-    height: 50px;
-    line-height: 50px;
-    padding: 0 30px;
-}
-.contact_intro
+    .section_intro .btm_scllpage {
+        padding: 20px 0 0 0;
+    }
 
-.contact-content{ margin-bottom: 100px; }
+    .section_intro_case_dearpet .intro_content {
+        height: 100vh;
+    }
+    .case_banner_dearpet {
+        margin: 0;
+        position: absolute;
+    }
+    .section_intro_case_dearpet .intro_content h2 {
+        margin-top: 200px;
+    }
 
-.section_intro .btm_scllpage {
-    padding: 20px 0 0 15px;
-}
+    .dearpet_prototype img {
+        max-width: 40%;
+    }
 
+    .dearpet_prototype_img {
+        justify-content: space-between;
 
+        display: flex;
+    }
 
+    .daerpet__img {
+        margin: 0;
+    }
 
-.section_intro_case_dearpet
+    .dearpet__addbrand .title__heading {
+        font-size: 36px;
+        line-height: 45px;
+    }
 
-.intro_content {
-    height: 100vh;
-  
-}
-.case_banner_dearpet {
-    margin: 0;
-    position: absolute;
-}
-.section_intro_case_dearpet .intro_content
-h2{
-    margin-top: 200px;
-}
+    .dearpet_brand_img {
+        display: block !important;
+    }
 
-.dearpet_prototype img {
-    max-width: 40%;
-}
+    .dearpet_brand_img img {
+        max-width: 80%;
+        margin-bottom: 80px;
+    }
 
+    .dearept__tags span {
+        font-size: 12.12px;
+        margin: 0 2% 20px 2%;
+        width: 45%;
+        padding: 10px;
+        line-height: 19px;
+    }
+    .performing_dearpet .social_ad img:nth-child(2) {
+        margin-top: 0;
+    }
 
-.dearpet_prototype_img {
-    justify-content: space-between;
-
-    display: flex;
-}
-
-.daerpet__img {
-    margin: 0;
-}
-
-.dearpet__addbrand .title__heading {
-    font-size: 36px;
-    line-height: 45px;
-}
-
-.dearpet_brand_img {
-    display: block !important;
-}
-
-
-.dearpet_brand_img  img {
-    max-width: 80%;
-    margin-bottom: 80px;
-}
-
-.dearept__tags span {
-    font-size: 12.12px;
-    margin: 0 2% 20px 2%;
-    width: 45%;
-    padding: 10px;
-    line-height: 19px;
-}
-.performing_dearpet .social_ad img:nth-child(2) {
-    margin-top: 0;
-}
-
-.campaign_content_dearpet  { text-align: center;}
-.campaign_content_dearpet h1 {
-
-    font-size: 100px;
-    line-height: 100px;
-}
+    .campaign_content_dearpet {
+        text-align: center;
+    }
+    .campaign_content_dearpet h1 {
+        font-size: 100px;
+        line-height: 100px;
+    }
 
     .performing_dearpet .social_ad img {
         margin: 0 0 -50px;
-   
-    
-}
-.social__media_dearpet .subtitle_dearpet{     font-family: "Jeko-SemiBold";}
-.fastrr_texti .sub_title{     font-size: 20.12px; line-height: 34.7px;}
+    }
+    .social__media_dearpet .subtitle_dearpet {
+        font-family: "Jeko-SemiBold";
+    }
+    .fastrr_texti .sub_title {
+        font-size: 20.12px;
+        line-height: 34.7px;
+    }
     section.section_specialize,
     section.section_specialize .fp-tableCell,
     .section_different,

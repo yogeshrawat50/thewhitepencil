@@ -58,7 +58,8 @@ p {
     font-size: 17px;
 }
 .primary-color {
-    background: -webkit-linear-gradient(#ba4ea8, #526ad6);
+    color: #526ad6;
+    background: linear-gradient(#ba4ea8, #526ad6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -114,9 +115,7 @@ img {
 .font-jv {
     font-family: "JekoVariable";
 }
-.font-r {
-    font-family: "Roboto", sans-serif;
-}
+
 .fw-300 {
     font-weight: 300;
 }
@@ -891,19 +890,12 @@ html:not(html:hover) .cursor::after {
     opacity: 1;
 }
 /* menu responsive –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.navbar-fixed .nav-links li:nth-of-type(5),
-.navbar-fixed .nav-links li:nth-of-type(4),
-.navbar-fixed .nav-links li:nth-of-type(3),
-.navbar-fixed .nav-links li:nth-of-type(2),
-.navbar-fixed .nav-links li:nth-of-type(1) {
+.navbar-fixed .nav-links li {
     opacity: 0;
     transition: 0.3s ease-in all;
 }
-.navbar-fixed .nav-links li:nth-of-type(5).nav-link-open,
-.navbar-fixed .nav-links li:nth-of-type(4).nav-link-open,
-.navbar-fixed .nav-links li:nth-of-type(3).nav-link-open,
-.navbar-fixed .nav-links li:nth-of-type(2).nav-link-open,
-.navbar-fixed .nav-links li:nth-of-type(1).nav-link-open {
+
+.navbar-fixed .nav-links li.nav-link-open {
     opacity: 1;
     transform: translateY(10px);
 }
@@ -1642,7 +1634,7 @@ section.section {
     max-width: 100px;
 }
 .process-section {
-    background-color: #0f1012;
+    background-color: #151618;
 }
 .process-section-content p {
     color: #e1e1e1;
@@ -1656,16 +1648,17 @@ section.section {
 }
 .process_count {
     position: absolute;
-    top: -50px;
-    left: -50px;
+    top: -151px;
+    left: -95px;
     border: 1px solid #414141;
     border-radius: 50%;
     font-size: 60px;
-    line-height: 150px;
+    line-height: 250px;
     color: #414141;
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     text-align: center;
+    z-index: -1;
 }
 .process_count2 {
     left: inherit;
@@ -2627,10 +2620,9 @@ div#hereform {
 }
 /* Start case study : Dearpet –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section_intro_case_dearpet {
-    background-color: #ffbd1f; margin-bottom: 0;
+    background-color: #ffbd1f;
+    margin-bottom: 0;
 }
-
-
 
 .case_banner_dearpet {
     bottom: 0;
@@ -2640,108 +2632,166 @@ div#hereform {
     margin: auto;
 }
 
-
 .case_banner_dearpet img {
     max-height: 550px;
 }
 
-
 .section_intro_case_dearpet .case-studyheading {
-    margin-bottom: 10px;     margin-top: 30px;
+    margin-bottom: 10px;
+    margin-top: 30px;
 }
 
-.process_aspect_dearpet{ height: 100vh  !important;}
+.process_aspect_dearpet {
+    height: 100vh !important;
+}
 
-.purple_section{ background-color: #7B4BC5;}
+.purple_section {
+    background-color: #7b4bc5;
+}
 
-.dearpet_prototype .subtitle_dearpet {color: #E7D8FF; }
+.dearpet_prototype .subtitle_dearpet {
+    color: #e7d8ff;
+}
 
-
-
-.gray__section{ background: #F5EFFF;}
- 
+.gray__section {
+    background: #f5efff;
+}
 
 .daerpet__img {
     position: relative;
     margin: 0 100px;
-   margin-top: -100px;
+    margin-top: -100px;
 }
 
-.social__media_dearpet{ background: #F5EFFF}
-
-
-.social__media_dearpet .title__heading{ color:  #472A7F; }
-.social__media_dearpet .subtitle_dearpet{ color:   #472A7F;
-   }
-
-   .dearept__tags span{ color:  #472A7F; background: #EFE1FF; font-size: 23.12px;
-    line-height: 51px; margin: 0 100px 50px 0; 
-    border-radius: 40px; padding: 15px 50px; display: inline-block;}
-
-    .pic_00 {
-        margin-right:  15px;
-    }
-
-
-    .pic_00 img {
-        margin-bottom:  15px;
-    }
-
-
-
-    .pic_01{ margin-top: 60px; margin-left: -20px;}
-    .pic_02{ margin-top: 30px;}
-
-    .pic_03{ margin-top: 90px;}
-
-    
-    .pic_05{ margin-top: 30px;         margin-right:  0;}
-
-
-    .shopify__dearpet{ background-color: #FDF2EF   ;} 
-
-    .shopify__dearpet,   .shopify__dearpet .subtitle_fastrr{color:#FF8F59;
+.social__media_dearpet {
+    background: #f5efff;
 }
 
+.social__media_dearpet .title__heading {
+    color: #472a7f;
+}
+.social__media_dearpet .subtitle_dearpet {
+    color: #472a7f;
+}
 
-    
-.shopify__dearpet
-.dearept__tags span{ color:  #FF8F59; background: #FFEAE4;}
+.dearept__tags span {
+    color: #472a7f;
+    background: #efe1ff;
+    font-size: 23.12px;
+    line-height: 51px;
+    margin: 0 100px 50px 0;
+    border-radius: 40px;
+    padding: 15px 50px;
+    display: inline-block;
+}
 
-.wall__img{margin-top: -50px;}
+.pic_00 {
+    margin-right: 15px;
+}
 
-.ooh_marketing_dearpet { background: #FFE9EB; color: #E84F66;}
+.pic_00 img {
+    margin-bottom: 15px;
+}
 
-.ooh_marketing_dearpet .subtitle_dearpet{ color: #E84F66;}
+.pic_01 {
+    margin-top: 60px;
+    margin-left: -20px;
+}
+.pic_02 {
+    margin-top: 30px;
+}
 
-.performing_dearpet{ background-color: #F5F5F5; color: #FF8F59;}
+.pic_03 {
+    margin-top: 90px;
+}
 
-.performing_dearpet .subtitle_dearpet{ color: #FF8F59;}
+.pic_05 {
+    margin-top: 30px;
+    margin-right: 0;
+}
+
+.shopify__dearpet {
+    background-color: #fdf2ef;
+}
+
+.shopify__dearpet,
+.shopify__dearpet .subtitle_fastrr {
+    color: #ff8f59;
+}
+
+.shopify__dearpet .dearept__tags span {
+    color: #ff8f59;
+    background: #ffeae4;
+}
+
+.wall__img {
+    margin-top: -50px;
+}
+
+.ooh_marketing_dearpet {
+    background: #ffe9eb;
+    color: #e84f66;
+}
+
+.ooh_marketing_dearpet .subtitle_dearpet {
+    color: #e84f66;
+}
+
+.performing_dearpet {
+    background-color: #f5f5f5;
+    color: #ff8f59;
+}
+
+.performing_dearpet .subtitle_dearpet {
+    color: #ff8f59;
+}
 .performing_dearpet .social_ad img {
     margin: 0 -50px;
 }
 
-.performing_dearpet .social_ad img:nth-child(2){ margin-top: 100px;}
-
-.campaign_dearpet { background: #EAF3FF; color: #004AA9;
+.performing_dearpet .social_ad img:nth-child(2) {
+    margin-top: 100px;
 }
 
-.campaign_dearpet .subtitle_dearpet{ color: #004AA9;}
+.campaign_dearpet {
+    background: #eaf3ff;
+    color: #004aa9;
+}
 
-.campaign_content_dearpet h1 { color: #004AA9; font-size:   180px; line-height:  200px;} 
+.campaign_dearpet .subtitle_dearpet {
+    color: #004aa9;
+}
 
-.campaign_content_dearpet p{  color:#86AFE2 } 
+.campaign_content_dearpet h1 {
+    color: #004aa9;
+    font-size: 180px;
+    line-height: 200px;
+}
 
-
+.campaign_content_dearpet p {
+    color: #86afe2;
+}
 
 /* Start case study : indian –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .section_intro_case_indian {
-    background-color: #AF4724; 
+    background-color: #af4724;
 }
 
-.section_intro_case_indian
- p {
-
+.section_intro_case_indian p {
     margin-bottom: 75px;
+}
+
+.caseindian p {
+    margin-bottom: 50px;
+}
+
+ul.case_ind li {
+    margin-bottom: 35px;
+    list-style: disc inside;
+    font-size: 18px;
+}
+
+.case_indian_section .title__shorts {
+    font-size: 44px;
 }

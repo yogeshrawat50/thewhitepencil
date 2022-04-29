@@ -149,10 +149,14 @@ $(".owl-carousel-testi").owlCarousel({
 		},
 
 		1300: {
-			items:2, stagePadding: 50
+			items:2, stagePadding: 0
 		},
 
 		1500: {
+			items:2, stagePadding: 50
+		},
+
+		1800: {
 			items:2, stagePadding: 180
 		},
 
